@@ -24,8 +24,6 @@ The Terraform & IaC Bookmark Manager and Knowledge Base Chrome Extension consoli
 
 Upgrade to the Pro version for **$39.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://mythicalgamer2.gumroad.com/l/lmlzeb)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/8x28wPcLl5wg5tu9rKcZc2N)** — Secure checkout
 
 ## Installation
@@ -37,7 +35,6 @@ Upgrade to the Pro version for **$39.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://mythicalgamer2.gumroad.com/l/lmlzeb)
 
 ## License
 
